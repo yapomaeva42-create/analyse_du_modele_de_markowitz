@@ -27,16 +27,6 @@
 
 ---
 
-## 🧠 Pourquoi c’est intéressant pour un recruteur
-
-- Séries temporelles : ingestion CSV, nettoyage, alignement des dates, rendements
-- Optimisation numérique : formulation + résolution (SciPy / SLSQP)
-- Backtesting : rolling window + rebalancement + suivi des poids
-- Risk analytics : rendement/vol annualisés, Sharpe, drawdown, stabilité en crise
-- Communication : reporting clair (PDF, tableaux, graphiques)
-
----
-
 ## 🧺 Univers d’actifs (10 actions)
 
 Tickers Euronext Paris :
